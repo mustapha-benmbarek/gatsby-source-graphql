@@ -1,4 +1,4 @@
-# Gatsby / Source GraphQL
+# Gatsby / Source GraphQL <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 
 ### What is in there
